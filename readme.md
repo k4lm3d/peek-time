@@ -1,0 +1,3 @@
+Create a simple but modern website where you can input a date and it will convert it to how many days, years, hours, minutes or seconds it has been since it passed, and you can also convert it in reverse like you input "3 days" and it will give you "2026/01/30". Make sure users can copy the results to their clipboard. Make sure it is accessible to any type of screens, and it has light and dark mode switch.
+
+Make the navigation or nav sticky on top and responsive. If you need to make a hamburger menu, do it.
