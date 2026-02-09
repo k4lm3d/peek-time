@@ -65,7 +65,7 @@ class ChronoNavbar extends HTMLElement {
                                     <polyline points="12 6 12 12 16 14"></polyline>
                                 </svg>
                             </div>
-                            <span class="logo-text text-xl font-bold tracking-tight">ChronoFlux</span>
+                            <span class="logo-text text-xl font-bold tracking-tight">Peek Time</span>
                         </div>
                         
                         <!-- Right side actions -->
