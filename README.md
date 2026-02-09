@@ -34,3 +34,7 @@ The "Copy to Clipboard" feature interacts with your device's clipboard API. By u
 
 5. Limitation of Liability
 To the maximum extent permitted by law, the developer shall not be liable for any damages arising out of the use or inability to use Peek Time.
+
+### Contact
+- Email: [kalmedkaliber@protonmail.com](mailto:kalmedkaliber@protonmail.com)
+- Facebook: [fb.com/k4lm3dgg](https://facebook.com/k4lm3dgg)
