@@ -69,9 +69,9 @@ class ChronoFooter extends HTMLElement {
                     </div>
                     
                     <div class="flex items-center gap-6 text-sm">
-                        <a href="#" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Privacy</a>
-                        <a href="#" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Terms</a>
-                        <a href="#" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Contact</a>
+                        <a href="https://github.com/k4lm3d/peek-time/blob/main/README.md#privacy-policy" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Privacy</a>
+                        <a href="https://github.com/k4lm3d/peek-time/blob/main/README.md#terms-of-use" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Terms</a>
+                        <a href="https://github.com/k4lm3d/peek-time/blob/main/README.md#contact" class="footer-link text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Contact</a>
                     </div>
                 </div>
             </footer>
