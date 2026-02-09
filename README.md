@@ -1,6 +1,9 @@
 # Peek Time
 [PeekAPhone](https://peekaphone.com) Time Calculator
 
+## About
+This project is created using [DeepSite](https://huggingface.co/deepsite) while the idea of it is by me, [K4LM3D](https://kalmed.localplayer.dev). I'm creating my second [PeekAPhone](https://peekaphone.com) community mission and I wonder if I could create a time calculator project for me to easily convert days and time. I'm sharing this project in public just in case you also need it 🙂
+
 ## Legal Information for Peek Time
 ### Privacy Policy
 Effective Date: February 9, 2026
@@ -35,6 +38,6 @@ The "Copy to Clipboard" feature interacts with your device's clipboard API. By u
 5. Limitation of Liability
 To the maximum extent permitted by law, the developer shall not be liable for any damages arising out of the use or inability to use Peek Time.
 
-### Contact
+## Contact
 - Email: [kalmedkaliber@protonmail.com](mailto:kalmedkaliber@protonmail.com)
 - Facebook: [fb.com/k4lm3dgg](https://facebook.com/k4lm3dgg)
