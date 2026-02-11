@@ -41,3 +41,5 @@ To the maximum extent permitted by law, the developer shall not be liable for an
 ## Contact
 - Email: [kalmedkaliber@protonmail.com](mailto:kalmedkaliber@protonmail.com)
 - Facebook: [fb.com/k4lm3dgg](https://facebook.com/k4lm3dgg)
+
+<a href='https://ko-fi.com/O5O21U14QZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
